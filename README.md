@@ -25,6 +25,8 @@ My role in the project was to build an interactive POWER BI dashboard that would
 - "Map Chart" is used to display a business by country served.
 - Lastly, I added "Slicers" to select multiple shipping modes and Order dates according to user requirements.
 
+Below is the Power BI dashboard that I have created:
+
 ![image](https://github.com/akeni1999/SN_Corporation_Analysis/assets/66996868/407bb690-b388-4d02-a6cc-4a950a3ef4c7)
 
 
